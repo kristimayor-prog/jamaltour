@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "alanya-jeep-safari",
+    "title": "Jeep Safari в Аланье",
+    "price": "35$",
+    "image": "/images/alanya-hero.jpg",
+    "description": "Захватывающее сафари на джипах по горам Аланьи с потрясающими видами.",
+    "whatsapp": "https://wa.me/905551112233?text=Здравствуйте!%20Хочу%20забронировать%20Jeep%20Safari%20в%20Аланье"
+  },
+  {
+    "slug": "boat-tour",
+    "title": "Яхта в Аланье",
+    "price": "40$",
+    "image": "/images/alanya-hero.jpg",
+    "description": "Морская прогулка на яхте с купанием и музыкой.",
+    "whatsapp": "https://wa.me/905551112233?text=Здравствуйте!%20Хочу%20забронировать%20яхту%20в%20Аланье"
+  }
+]

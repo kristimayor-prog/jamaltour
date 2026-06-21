@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+/* GLOBAL RESET FOR FULL BACKGROUND SITE */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: transparent !important;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* REMOVE ALL DARK MODE OVERRIDES */
+:root {
+  --background: transparent;
+  --foreground: #ffffff;
+}
+
+/* DISABLE SYSTEM DARK MODE AUTO BLACK BACKGROUND */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: transparent;
+    --foreground: #ffffff;
+  }
+}
+
+/* KEEP TEXT DEFAULT */
+body {
+  background: transparent !important;
+  color: white;
+}
